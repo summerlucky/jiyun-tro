@@ -8,7 +8,7 @@
 
 .. image::  /images/android-1.png
 
-
+.. image::  /images/android-2.png
 
 设置方式二：手动设置（如果通过订阅的方式设置失败，更新后无法显示服务器，请用此方法手动设置）
 
