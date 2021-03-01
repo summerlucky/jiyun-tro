@@ -24,23 +24,22 @@ windows使用教程
 
 .. image::  /images/windows-3.png
 
+3、订阅成功后返回，展开分组，双击选择展开后的节点即可
 
+.. image::  /images/windows-4.png
 
 设置方式二（手动设置）
 
 重要提示！！！如果订阅失败，请参照如下方法手动设置，如果订阅成功，请忽略下面的设置步骤
 
-1、选择服务器，添加vmess服务器
+1、点击新建按钮
 
-
+.. image::  /images/windows-5.png
 
 2、填写发你的账号信息，按如下设置
 
-服务器和伪装域名请填写邮件里的服务器地址
+.. image::  /images/windows-6.png
 
-UUID：填邮件里的UUID
-
-端口：443
 
 
 
