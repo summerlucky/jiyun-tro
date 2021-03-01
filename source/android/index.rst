@@ -18,4 +18,4 @@
 
 设置完毕后，选择你设置的服务器，点击右下角的按钮连接
 
-.. image::  /images/android-2.png
+.. image::  /images/android-4.png
