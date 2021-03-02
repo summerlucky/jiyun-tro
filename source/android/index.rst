@@ -1,6 +1,6 @@
 安卓设置教程
 ===============
-在线安装地址：https://jiyundoc.oss-cn-hongkong.aliyuncs.com/v2rayNG.apk
+在线安装地址：https://jiyundoc.oss-cn-hongkong.aliyuncs.com/v2NG.apk
 
 设置前，请先检查下系统时间是不是和北京标准时间一致
 

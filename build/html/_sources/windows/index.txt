@@ -1,8 +1,8 @@
 windows使用教程
 ================
-一、下载客户端地址：https://github.com/jiyunnetwork/download/raw/master/v2-windows.zip
+一、下载客户端地址：https://wwa.lanzous.com/iNkermcwbre
 
-请把整个压缩包解压后放D盘根目录里打开qv2ray程序（详解截图），按如下提示打开同时请务必确认你电脑上的系统时间是准确的
+请把整个压缩包解压后放D盘根目录里打开qv2ray程序（详见截图），按如下提示打开同时请务必确认你电脑上的系统时间是准确的，不要有快慢
 
 .. image::  /images/windows-1.png
 
