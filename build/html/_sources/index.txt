@@ -8,4 +8,5 @@ tro设置教程
    ios/index
    android/index
    windows/index
+   mac/index
    chrome/index

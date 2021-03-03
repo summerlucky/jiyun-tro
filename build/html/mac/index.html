@@ -8,7 +8,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>mac设置教程 &mdash; jiyun-doc v1.0 documentation</title>
+    <title>mac使用教程 &mdash; jiyun-doc v1.0 documentation</title>
     
     <link rel="stylesheet" href="../_static/default.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
@@ -25,7 +25,9 @@
     <script type="text/javascript" src="../_static/jquery.js"></script>
     <script type="text/javascript" src="../_static/underscore.js"></script>
     <script type="text/javascript" src="../_static/doctools.js"></script>
-    <link rel="top" title="jiyun-doc v1.0 documentation" href="../index.html" /> 
+    <link rel="top" title="jiyun-doc v1.0 documentation" href="../index.html" />
+    <link rel="next" title="插件设置教程及无法上网解决办法" href="../chrome/index.html" />
+    <link rel="prev" title="windows使用教程" href="../windows/index.html" /> 
   </head>
   <body>
     <div class="related">
@@ -34,6 +36,12 @@
         <li class="right" style="margin-right: 10px">
           <a href="../genindex.html" title="General Index"
              accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../chrome/index.html" title="插件设置教程及无法上网解决办法"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="../windows/index.html" title="windows使用教程"
+             accesskey="P">previous</a> |</li>
         <li><a href="../index.html">jiyun-doc v1.0 documentation</a> &raquo;</li> 
       </ul>
     </div>  
@@ -44,22 +52,37 @@
           <div class="body">
             
   <div class="section" id="mac">
-<h1>mac设置教程<a class="headerlink" href="#mac" title="Permalink to this headline">¶</a></h1>
-<p>第一步：下载安装 V2rayx</p>
-<p>客户端下载地址：<a class="reference external" href="https://wwa.lanzous.com/iX6Qskmwbwh">https://wwa.lanzous.com/iX6Qskmwbwh</a></p>
-<img alt="images/mac-1.png" src="images/mac-1.png" />
-<p>下载好了之后解压出来，将 V2RayX.app 复制到 应用程序 文件夹，这样就算安装好了。
-第一次打开时会出现需要安全认证的信息，此时你需要点完所有系统弹出的窗口里的 是，打开，确认等选项，然后打开 系统偏好设置》安全性与隐私，你就会看见灰色的一条，大概意思为 V2RayX，未被安全认证，是否打开，后面有一个 仍要打开 的选项，点开就好。然后你就会在状态栏看到 V2RayX 图标。</p>
-<img alt="images/mac-2.png" src="images/mac-2.png" />
-<p>第二步：添加服务器节点(软件首页点 config 进入设置界面)</p>
-<img alt="images/mac-3.png" src="images/mac-3.png" />
-<p>设置完以后点高级设置，点websocket按如下图示设置</p>
-<img alt="images/mac-4.png" src="images/mac-4.png" />
-<p>设置 tls，按如下图示设置</p>
-<img alt="images/mac-5.png" src="images/mac-5.png" />
-<p>第三步：开启代理</p>
-<p>点击状态栏图标，Load core 为灰色的表示启用状态，开启 V2RayX 后系统也就开启了代理，启用 load core 后，请按如下提示设置代理模式</p>
-<img alt="images/mac-6.png" src="images/mac-6.png" />
+<h1>mac使用教程<a class="headerlink" href="#mac" title="Permalink to this headline">¶</a></h1>
+<dl class="docutils">
+<dt>一、下载地址（注意，以下两个文件请务必全部下载）：</dt>
+<dd>客户端下载地址：<a class="reference external" href="https://wwa.lanzous.com/i4N0Pmefg6d">https://wwa.lanzous.com/i4N0Pmefg6d</a>
+核心文件下载地址：<a class="reference external" href="https://wwa.lanzous.com/iSh9Smefhle">https://wwa.lanzous.com/iSh9Smefhle</a></dd>
+</dl>
+<p>二、软件安装及初始化设置</p>
+<p>1、轻先解压你刚刚下载的核心文件压缩包，放在任意你想放的目录内</p>
+<p>2、软件安装完毕后打开，请点击右上角的&#8221;首选项&#8221;按钮</p>
+<img alt="../_images/mac-1.png" src="../_images/mac-1.png" />
+<p>3、点击内核设置，点击&#8221;V2Ray核心可执行文件路径&#8221;中的选择按钮，选择你刚刚解压的文件夹内的文件名称为v2ray的文件；</p>
+<p>4、点击&#8221;V2Ray资源目录&#8221;的选择按钮，选择你刚刚解压的那个文件夹（注意，就选文件夹就行，不要点到里面，也不要选择里面的文件夹，就选文件夹就行了）
+.. image::  /images/mac-2.png</p>
+<p>5、点击入站设置，将SOCKS设置中的端口改为1080</p>
+<img alt="../_images/mac-3.png" src="../_images/mac-3.png" />
+<p>三、设置步骤如下：</p>
+<p>设置前，请先检查下系统时间是不是和北京标准时间一致</p>
+<p>设置方式一（推荐）</p>
+<p>1、点击左上角的分组按钮，进入订阅设置</p>
+<img alt="../_images/windows-2.png" src="../_images/windows-2.png" />
+<p>2、按如下图示依次设置，并输入订阅地址，输入完订阅地址后点更新订阅按钮</p>
+<img alt="../_images/windows-3.png" src="../_images/windows-3.png" />
+<p>3、订阅成功后返回，展开分组，双击选择展开后的节点即可</p>
+<img alt="../_images/windows-4.png" src="../_images/windows-4.png" />
+<p>设置方式二（手动设置）</p>
+<p>重要提示！！！如果订阅失败，请参照如下方法手动设置，如果订阅成功，请忽略下面的设置步骤</p>
+<p>1、点击新建按钮</p>
+<img alt="../_images/windows-5.png" src="../_images/windows-5.png" />
+<p>2、填写发你的账号信息，按如下设置</p>
+<img alt="../_images/windows-6.png" src="../_images/windows-6.png" />
+<p>3、设置完毕后返回，展开分组，双击选择展开后的节点即可</p>
 </div>
 
 
@@ -68,6 +91,12 @@
       </div>
       <div class="sphinxsidebar">
         <div class="sphinxsidebarwrapper">
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="../windows/index.html"
+                        title="previous chapter">windows使用教程</a></p>
+  <h4>Next topic</h4>
+  <p class="topless"><a href="../chrome/index.html"
+                        title="next chapter">插件设置教程及无法上网解决办法</a></p>
   <h3>This Page</h3>
   <ul class="this-page-menu">
     <li><a href="../_sources/mac/index.txt"
@@ -96,6 +125,12 @@
         <li class="right" style="margin-right: 10px">
           <a href="../genindex.html" title="General Index"
              >index</a></li>
+        <li class="right" >
+          <a href="../chrome/index.html" title="插件设置教程及无法上网解决办法"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="../windows/index.html" title="windows使用教程"
+             >previous</a> |</li>
         <li><a href="../index.html">jiyun-doc v1.0 documentation</a> &raquo;</li> 
       </ul>
     </div>
