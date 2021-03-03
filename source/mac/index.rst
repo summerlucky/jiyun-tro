@@ -1,11 +1,13 @@
 mac使用教程
 ================
-一、下载地址（注意，以下两个文件请务必全部下载）：
+一、下载地址（注意，以下三个文件请务必全部下载）：
     客户端下载地址：https://wwa.lanzous.com/i4N0Pmefg6d
 
     核心文件下载地址：https://wwa.lanzous.com/iSh9Smefhle
 
-二、软件安装及初始化设置
+    插件下载地址：https://jiyundoc.oss-cn-hongkong.aliyuncs.com/QvPlugin-Tro.macOS.so
+
+二、插件安装及初始化设置
 
 1、轻先解压你刚刚下载的核心文件压缩包，放在任意你想放的目录内
 
@@ -22,6 +24,12 @@ mac使用教程
 5、点击入站设置，将SOCKS设置中的端口改为1080
 
 .. image::  /images/mac-3.png
+
+6、插件安装：点击插件按钮，点击打开本地插件目录，将下载好的插件放在此目录后重新打开软件
+
+.. image::  /images/mac-4.png
+
+.. image::  /images/mac-5.png
 
 三、设置步骤如下：
 
@@ -51,7 +59,7 @@ mac使用教程
 
 .. image::  /images/windows-5.png
 
-2、填写发你的账号信息，按如下设置
+2、类型改成Trojan，填写发你的账号信息，按如下设置
 
 .. image::  /images/windows-6.png
 
