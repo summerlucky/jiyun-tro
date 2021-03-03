@@ -1,12 +1,10 @@
-插件设置教程及无法上网解决办法
+chrome插件设置教程
 ================
-一、请不要把软件放C盘，请把整个压缩包解压后放D盘根目录(或者其他盘)，解压后从文件夹里打开v2rayN.exe文件，打开后如果提示无法运行或者提示需要安装.netframework,请安装下.net framework ,下载地址：https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-offline-installer
+一、检查下手机或者电脑的时间，必须和北京标准时间一致，不能有快慢
 
-二、检查下手机或者电脑的时间，必须和北京标准时间一致，不能有快慢
+二、请确认是否被杀毒软件阻止，如果有杀毒软件弹框，全部允许
 
-三、请确认是否被杀毒软件阻止，软件里点下重启服务，如果有杀毒软件弹框，全部允许，直到点完以后杀毒软件不跳提示为止
-
-四、如果尝试以上办法都不可行的话，请按如下教程使用chrome浏览器并且安装插件解决：
+三、如果尝试以上办法都不可行的话，请按如下教程使用chrome浏览器并且安装插件解决：
 
 chrome switchyomega插件下载地址： https://jiyundoc.oss-cn-hongkong.aliyuncs.com/SwitchyOmega-2.5.15.rar
 
