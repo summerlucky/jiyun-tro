@@ -12,6 +12,11 @@ mac使用教程
 
 .. image::  /images/mac-cn-1.png
 
+2.1 软件如果无法打开，请参照如下截图修改系统权限，允许软件打开
+
+.. image::  /images/mac-2.png
+.. image::  /images/mac-3.png
+
 3、点击内核设置，点击"V2Ray核心可执行文件路径"中的选择按钮，路径请填写 /Applications/qv2ray.app/Contents/Resources/vcore/v2ray（请务必一模一样复制到软件设置里）
 
 4、点击"V2Ray资源目录"的选择按钮，路径请填写/Applications/qv2ray.app/Contents/Resources/vcore/（请务必一模一样复制到软件设置里）
@@ -20,15 +25,8 @@ mac使用教程
 
 注意：设置完毕后，点下检查V2Ray核心配置，点击会提示无法运行，请在系统偏好设置里允许运行，详见如下截图
 
-.. image::  /images/mac-6.png
-.. image::  /images/mac-7.png
-
-
-6、插件安装：点击插件按钮，点击打开本地插件目录，将下载好的插件放在此目录后重新打开软件，加载后如果提示系统权限不足，请按照步骤4在系统偏好设置里允许运行
-
-.. image::  /images/mac-4.png
-
-.. image::  /images/mac-5.png
+.. image::  /images/mac-2.png
+.. image::  /images/mac-3.png
 
 
 三、设置步骤如下：
