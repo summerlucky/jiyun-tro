@@ -1,39 +1,35 @@
 mac使用教程
 ================
-一、下载地址（注意，以下三个文件请务必全部下载）：
-    客户端下载地址：https://wwa.lanzous.com/i4N0Pmefg6d
+一、客户端下载地址：https://wwa.lanzous.com/ivM9Gmhvweb
 
-    核心文件下载地址：https://wwa.lanzous.com/iSh9Smefhle
+二、初始化设置（mac设置略微麻烦，还请耐心看完哦）
 
-    插件下载地址：https://jiyundoc.oss-cn-hongkong.aliyuncs.com/QvPlugin-Tro.macOS.so
+1、软件安装完毕后，请务必复制软件到你的应用程序文件目录下，否则连接会有问题
 
-二、插件安装及初始化设置（mac设置非常麻烦，还请耐心看完哦）
-
-1、轻先解压你刚刚下载的核心文件压缩包，放在任意你想放的目录内
+.. image::  /images/mac-en-1.png
 
 2、软件安装完毕后打开，请点击右上角的"首选项"按钮
 
-.. image::  /images/mac-1.png
+.. image::  /images/mac-cn-1.png
 
-3、点击内核设置，点击"V2Ray核心可执行文件路径"中的选择按钮，选择你刚刚解压的文件夹内的文件名称为v2ray的文件；
+3、点击内核设置，点击"V2Ray核心可执行文件路径"中的选择按钮，路径请填写 /Applications/qv2ray.app/Contents/Resources/vcore/v2ray（请务必一模一样复制到软件设置里）
 
-4、点击"V2Ray资源目录"的选择按钮，选择你刚刚解压的那个文件夹（注意，就选文件夹就行，不要点到里面，也不要选择里面的文件夹，就选文件夹就行了）
+4、点击"V2Ray资源目录"的选择按钮，路径请填写/Applications/qv2ray.app/Contents/Resources/vcore/（请务必一模一样复制到软件设置里）
 
-.. image::  /images/mac-2.png
+.. image::  /images/mac-cn-2.png
 
-注意：加载后如果提示系统权限不足，请在系统偏好设置里允许运行
+注意：设置完毕后，点下检查V2Ray核心配置，点击会提示无法运行，请在系统偏好设置里允许运行，详见如下截图
 
 .. image::  /images/mac-6.png
+.. image::  /images/mac-7.png
 
-5、点击入站设置，将SOCKS设置中的端口改为1080
-
-.. image::  /images/mac-3.png
 
 6、插件安装：点击插件按钮，点击打开本地插件目录，将下载好的插件放在此目录后重新打开软件，加载后如果提示系统权限不足，请按照步骤4在系统偏好设置里允许运行
 
 .. image::  /images/mac-4.png
 
 .. image::  /images/mac-5.png
+
 
 三、设置步骤如下：
 
@@ -43,15 +39,15 @@ mac使用教程
 
 1、点击左上角的分组按钮，进入订阅设置
 
-.. image::  /images/windows-2.png
+.. image::  /images/mac-cn-3.png
 
 2、按如下图示依次设置，并输入订阅地址，输入完订阅地址后点更新订阅按钮
 
-.. image::  /images/windows-3.png
+.. image::  /images/mac-cn-4.png
 
 3、订阅成功后返回，展开分组，双击选择展开后的节点即可
 
-.. image::  /images/windows-4.png
+.. image::  /images/mac-cn-7.png
 
 
 
@@ -61,14 +57,14 @@ mac使用教程
 
 1、点击新建按钮
 
-.. image::  /images/windows-5.png
+.. image::  /images/mac-cn-5.png
 
 2、类型改成Trojan，填写发你的账号信息，按如下设置
 
-.. image::  /images/windows-6.png
+.. image::  /images/mac-cn-6.png
 
 3、设置完毕后返回，展开分组，双击选择展开后的节点即可
 
-
+.. image::  /images/mac-cn-7.png
 
 
