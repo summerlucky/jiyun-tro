@@ -6,7 +6,7 @@ mac使用教程
 
 1、软件安装完毕后，请务必复制软件到你的应用程序文件目录下，否则连接会有问题
 
-.. image::  /images/mac-en-1.png
+.. image::  /images/mac-1.png
 
 2、软件安装完毕后打开，请点击右上角的"首选项"按钮
 
@@ -15,6 +15,7 @@ mac使用教程
 2.1 软件如果无法打开，请参照如下截图修改系统权限，允许软件打开
 
 .. image::  /images/mac-2.png
+
 .. image::  /images/mac-3.png
 
 3、点击内核设置，点击"V2Ray核心可执行文件路径"中的选择按钮，路径请填写 /Applications/qv2ray.app/Contents/Resources/vcore/v2ray（请务必一模一样复制到软件设置里）
