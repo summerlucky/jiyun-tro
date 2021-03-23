@@ -6,7 +6,7 @@ chrome插件设置教程
 
 三、如果尝试以上办法都不可行的话，请按如下教程使用chrome浏览器并且安装插件解决：
 
-chrome switchyomega插件下载地址： https://jiyundoc.oss-cn-hongkong.aliyuncs.com/SwitchyOmega-2.5.15.rar
+chrome switchyomega插件已在软件的Qv2ray\plugins目录下
 
 如果你没有chrome浏览器，可点此下载安装：https://jiyundoc.oss-cn-hongkong.aliyuncs.com/ChromeSetup.exe
 
@@ -26,7 +26,7 @@ chrome switchyomega插件下载地址： https://jiyundoc.oss-cn-hongkong.aliyun
 
 .. image::  /images/chrome-2.png
 
-5、选择你刚刚解压的插件所在的文件夹即可完成安装
+5、选择\Qv2ray\plugins\SwitchyOmega-2.5.15即可完成安装，请注意，只需要选择SwitchyOmega-2.5.15这个目录即可，不需要再点到里面
 
 设置插件
 
