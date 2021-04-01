@@ -1,9 +1,12 @@
 苹果ios设置教程
 ================
 一、请使用邮件正文中的appleid 和密码登录，登录时注意事项如下：
+
 1、登陆时，apple id账号前后没空格
 
 2、请仅仅登陆appstore ，千万不要登录iCloud ，下载完毕后退出appstore
+
+3、此账号仅用来下shadowrocket，请不要用此账号下载其他软件，如果需要下其他软件，请自行在其他渠道购买美区apple id
 
 
 二、请在IOS系统里点设置-iTunes Store与App Store，退出你自己的账号登录我的账号后搜shadowrocket下载
