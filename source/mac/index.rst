@@ -1,6 +1,6 @@
 mac使用教程
 ================
-一、客户端下载地址：https://wwa.lanzous.com/ivM9Gmhvweb
+一、客户端下载地址：https://wwa.lanzous.com/iter0npp31c
 
 二、初始化设置（mac设置略微麻烦，还请耐心看完哦）
 
