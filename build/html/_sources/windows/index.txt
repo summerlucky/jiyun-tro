@@ -1,14 +1,11 @@
 windows使用教程
 ================
-一、下载客户端地址：https://wwa.lanzoux.com/i7T56me5pxe
+一、下载客户端地址：https://wwa.lanzoui.com/ibYvvsqwmmf
 
-请把整个压缩包解压后放D盘根目录里打开qv2ray程序（详见截图），按如下提示打开同时请务必确认你电脑上的系统时间是准确的，不要有快慢
+请把整个压缩包解压后放D盘根目录里打开qv2ray程序（详见截图），按如下提示打开同时请务必确认你电脑上的系统时间是准确的，不要有快慢，如果软件打开报错，请安装软件目录下的vc_redist.x64.exe文件，安装后重启电脑再打开
 
 .. image::  /images/windows-1.png
 
-打开后如果提示无法运行或者提示需要安装.netframework,请安装下.net framework
-
-下载地址：https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-offline-installer
 
 二、设置步骤如下：
 
