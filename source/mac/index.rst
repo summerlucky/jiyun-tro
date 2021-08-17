@@ -30,7 +30,7 @@ mac使用教程
 
 选中一个节点，点击顶部的连接按钮   即可连接
 
-.. image::  /images/macqt-2.png
+.. image::  /images/macqt-3.png
 
 
 
@@ -38,7 +38,7 @@ mac使用教程
 
 打开客户端，点击 连接(C) > 添加(A) > 手动(M) > 手动添加 TROJAN 连接，在弹出的窗口中填写信息
 
-.. image::  /images/macqt-3.png
+.. image::  /images/macqt-2.png
 
 
 •	配置名称：随意填写一个备注名称（例如服务器位置）
