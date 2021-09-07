@@ -1,6 +1,6 @@
 windows使用教程
 ================
-一、下载客户端地址：https://wwa.lanzoui.com/ibYvvsqwmmf
+一、下载客户端地址：https://wwa.lanzoui.com/ik6qPtpxruj
 
 请把整个压缩包解压后放D盘根目录里打开qv2ray程序（详见截图），按如下提示打开同时请务必确认你电脑上的系统时间是准确的，不要有快慢，如果软件打开报错，请安装软件目录下的vc_redist.x64.exe文件，安装后重启电脑再打开
 
@@ -17,7 +17,7 @@ windows使用教程
 
 .. image::  /images/windows-2.png
 
-2、按如下图示依次设置，并输入订阅地址，输入完订阅地址后点更新订阅按钮
+2、按如下图示依次设置，并输入订阅地址，输入完订阅地址后点更新订阅按钮，如果订阅成功后，把订阅的勾取消勾选，然后点ok，否则后续容易丢设置
 
 .. image::  /images/windows-3.png
 
