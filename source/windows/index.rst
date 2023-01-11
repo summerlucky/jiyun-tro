@@ -37,7 +37,7 @@ windows使用教程
 
 2、填写发你的账号信息，按如下设置
 
-.. image::  /images/windows-6.png
+.. image::  /images/windows-7.png
 
 3、设置完毕后返回，展开分组，双击选择展开后的节点即可
 
