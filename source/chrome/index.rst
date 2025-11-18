@@ -1,10 +1,6 @@
 chrome插件设置教程
 ================
-一、检查下手机或者电脑的时间，必须和北京标准时间一致，不能有快慢
-
-二、请确认是否被杀毒软件阻止，如果有杀毒软件弹框，全部允许
-
-三、如果尝试以上办法都不可行的话，请按如下教程使用chrome浏览器并且安装插件解决：
+chrome插件下载地址：https://wwpr.lanzout.com/iQoQk312wjra
 
 chrome switchyomega插件已在软件的Qv2ray\plugins目录下
 
