@@ -57,7 +57,3 @@ chrome插件下载地址：https://wwpr.lanzout.com/iQoQk312wjra
 .. image::  /images/plugin-10.png
 
 .. image::  /images/plugin-11.png
-
-6、设置完毕后，如果遇到特网站不能访问的，请勾选浏览器右上角的圈圈，点击系统代理，如果遇到不能访问的网站，再勾选浏览器右上角的圈圈，勾选proxy，设置完毕后即可正常访问
-
-.. image::  /images/chrome-4.png
