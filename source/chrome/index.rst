@@ -25,6 +25,7 @@ chrome插件下载地址：https://wwpr.lanzout.com/iQoQk312wjra
 4、将下载好的插件用鼠标拖到空白区域
 
 二、设置插件
+
 1、请按如下提示操作，并进入设置proxy模式
 
 .. image::  /images/plugin-1.png
