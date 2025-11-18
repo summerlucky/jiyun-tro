@@ -1,5 +1,9 @@
 chrome插件设置教程（设置完毕后国内外自动分流，不会影响国内网站访问）
 ================
+请按如下图示打开软件，先修改软件默认设置
+.. image::  /images/qv2ray-1.png
+.. image::  /images/qv2ray-2.png
+
 chrome插件下载地址：https://wwpr.lanzout.com/iQoQk312wjra
 
 如果你没有chrome浏览器，可点此下载安装：https://www.google.cn/chrome
