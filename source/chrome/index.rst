@@ -1,16 +1,14 @@
-chrome插件设置教程
+chrome插件设置教程（设置完毕后国内外自动分流，不会影响国内网站访问）
 ================
 chrome插件下载地址：https://wwpr.lanzout.com/iQoQk312wjra
 
-chrome switchyomega插件已在软件的Qv2ray\plugins目录下
-
-如果你没有chrome浏览器，可点此下载安装：https://jiyundoc.oss-cn-hongkong.aliyuncs.com/ChromeSetup.exe
+如果你没有chrome浏览器，可点此下载安装：https://www.google.cn/chrome
 
 设置步骤如下：
 
-安装插件：
+一、安装插件：
 
-1、解压下载后的插件
+1、下载后的插件,如果被chrome拦截了，请点下允许下载
 
 2、在 Chrome 地址栏输入 chrome://extensions 输入完毕后按回车
 
@@ -18,18 +16,29 @@ chrome switchyomega插件已在软件的Qv2ray\plugins目录下
 
 .. image::  /images/chrome-1.png
 
-4、点击'加载已解压的扩展程序'
+4、将下载好的插件用鼠标拖到空白区域
 
-.. image::  /images/chrome-2.png
+二、设置插件
+1、请按如下提示操作，并进入设置proxy模式
+.. image::  /images/plugin-1.png
+.. image::  /images/plugin-2.png
+.. image::  /images/plugin-3.png
 
-5、选择\Qv2ray\plugins\SwitchyOmega-2.5.15即可完成安装，请注意，只需要选择SwitchyOmega-2.5.15这个目录即可，不需要再点到里面
+2、点击插件设置页面左边的proxy，然后在右边代理服务器中代理协议设置为socks5，代理服务器填写127.0.0.1,端口1080，设置完毕后点击页面左边的应用选项 
+.. image::  /images/plugin-4.png
 
-设置插件
+3、选择auto switch 按图示操作
+.. image::  /images/plugin-5.png
+.. image::  /images/plugin-6.png
 
-1、点击插件设置页面左边的proxy，然后在右边代理服务器中代理协议设置为socks5，代理服务器填写127.0.0.1,端口1080，设置完毕后点击页面左边的应用选项 
+4、点击添加规则，输入规则网址，规则网址链接为：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+.. image::  /images/plugin-7.png
+.. image::  /images/plugin-8.png
+.. image::  /images/plugin-9.png
 
-.. image::  /images/chrome-3.png
+5、设置完毕后，按提示把插件显示在外部方便后续切换
+.. image::  /images/plugin-10.png
+.. image::  /images/plugin-11.png
 
-2、设置完毕后，一般情况请勾选浏览器右上角的圈圈，点击系统代理，如果遇到不能访问的网站，再勾选浏览器右上角的圈圈，勾选proxy，设置完毕后即可正常上网
-
+6、设置完毕后，如果遇到特网站不能访问的，请勾选浏览器右上角的圈圈，点击系统代理，如果遇到不能访问的网站，再勾选浏览器右上角的圈圈，勾选proxy，设置完毕后即可正常访问
 .. image::  /images/chrome-4.png
