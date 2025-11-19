@@ -4,7 +4,13 @@
 
 备用地址：https://jiyundoc.oss-cn-hongkong.aliyuncs.com/v2NG.apk
 
-设置前，请先点击软件左上角的设置，然后找到跳过证书验证，把勾勾上
+设置前，请按如下图示步骤，先点击软件左上角的设置，然后找到跳过证书验证，把勾勾上，具体如下
+
+.. image::  /images/android-5.png
+
+.. image::  /images/android-6.png
+
+.. image::  /images/android-7.png
 
 设置方式一：通过订阅方式快速设置（推荐）
 
