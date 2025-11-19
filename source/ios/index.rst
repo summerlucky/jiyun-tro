@@ -24,7 +24,11 @@
 
 软件打开后点击添加节点，类型选择 subscribe
 
-.. image::  /images/ios-2.png
+.. image::  /images/ios-2.jpg
+
+.. image::  /images/ios-3.jpg
+
+.. image::  /images/ios-4.jpg
 
 设置方式二：手动设置（如果通过订阅的方式设置失败，更新后无法显示服务器，请用此方法手动设置）
 
